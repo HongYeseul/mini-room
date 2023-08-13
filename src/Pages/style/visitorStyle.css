@@ -1,0 +1,44 @@
+.text{
+    display: inline;
+    margin-right: 10px;
+}
+
+.intro{
+    padding:2em;
+    /* border:dashed 2px #b3ada4; */
+    box-sizing: content-box;
+    text-align: left;
+}
+
+.bubble {
+    margin: 0 20px 0 20px;
+    padding: 1em;
+    border-radius: 30px 60px/60px 30px;
+    background-color: white;
+    border: solid 8px white;
+    /* border: solid 8px #ccc7be; */
+    /* position: relative; */
+}
+
+#nickname{
+    width: 15%;
+    margin-bottom: 10px;
+    display: inline;
+    float: left;
+}
+#letter{
+    width: 75%;
+    display: inline;
+}
+#submit{
+    float: right;
+    margin-top: 50px;
+    background-color: black;
+    color: white;
+    border: 0px;
+}
+#submit:hover{
+    background-color: gray;
+    color: black;
+    border: 0px;
+}
