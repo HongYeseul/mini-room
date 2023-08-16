@@ -31,7 +31,7 @@ export default function PhotoPage() {
                 </Col>
                 
                 <Col xs={6} md={4}>
-                <Image src="https://cdn.pixabay.com/photo/2017/01/26/18/09/length-landscape-2011238_1280.jpg" rounded
+                <Image src={"./images/photo/test.jpg"} rounded
                     style={{width:'240px', height:'180px'}}/>
                 </Col>
             </Row>
