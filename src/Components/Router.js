@@ -14,7 +14,7 @@ return (
 
 <header>
     <div className=""style={{width:'650px', height:'150px', backgroundColor:'#999'}} >
-        <h1>예슬's 미니룸</h1> Merry Christmas
+        <h1>예슬's 미니룸</h1> Hello👋
         <Navbar bg="light" variant="light">
         <Container style={{}}>
             <Navbar.Brand href="/">메인가기</Navbar.Brand>
